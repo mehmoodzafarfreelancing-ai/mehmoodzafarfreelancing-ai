@@ -21,7 +21,7 @@
 
 ### 🚀 Projects  
 
-### 2. [Personal Portfolio](https://magnificent-fox-3fea3a.netlify.app/)  
+### 1. [Personal Portfolio](https://magnificent-fox-3fea3a.netlify.app/)  
 A modern personal portfolio website showcasing my skills, projects, and interests.  
 Built with **HTML and CSS**, it focuses on minimal design and responsive layout.  
 
