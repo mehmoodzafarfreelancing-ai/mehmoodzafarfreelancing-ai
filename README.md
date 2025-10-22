@@ -9,7 +9,7 @@
 - 📚 Currently learning **Full-Stack Development** (Frontend + Backend)  
 - 💻 Skills: HTML, CSS, JavaScript (learning React & Node soon)  
 - 🎯 Goal: To become a **professional Full-Stack Web Developer**  
-- 📫 Reach me at: [YourEmail@example.com]  
+- 📫 Reach me at: [mehmoodzafarfreelancing@gmail.com]  
 
 ---
 
@@ -21,9 +21,9 @@
 
 ### 🚀 Projects  
 
-#### 1. [Simple Landing Page](https://gilded-clafoutis-c3f83d.netlify.app/)  
-A clean, responsive landing page built using HTML and CSS.  
-*(This was one of my early projects as part of my learning journey.)*
+### 2. [Personal Portfolio](https://cozy-haupia-379616.netlify.app/)  
+A modern personal portfolio website showcasing my skills, projects, and interests.  
+Built with **HTML and CSS**, it focuses on minimal design and responsive layout.  
 
 #### 2. [Another Project](https://marvelous-shortbread-3b1f1b.netlify.app/)  
 Another practice project to improve my frontend skills.  
