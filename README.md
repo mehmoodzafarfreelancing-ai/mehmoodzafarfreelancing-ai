@@ -25,8 +25,9 @@
 A modern personal portfolio website showcasing my skills, projects, and interests.  
 Built with **HTML and CSS**, it focuses on minimal design and responsive layout.  
 
-#### 2. [Another Project](https://marvelous-shortbread-3b1f1b.netlify.app/)  
-Another practice project to improve my frontend skills.  
+### 2. [Personal Site – Marvelous Shortbread](https://marvelous-shortbread-3b1f1b.netlify.app/)  
+A clean personal profile website presenting my education, skills, and contact details.  
+Built with **HTML and CSS**, this site emphasizes simplicity and clear layout.  
 
 ---
 
