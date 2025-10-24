@@ -29,7 +29,7 @@ Built with **HTML and CSS**, it focuses on minimal design and responsive layout.
 A clean personal profile website presenting my education, skills, and contact details.  
 Built with **HTML and CSS**, this site emphasizes simplicity and clear layout.  
 
-### 2. [Personal Site – Jade Heliotrope](https://jade-heliotrope-b56d16.netlify.app/)  
+### 3. [Personal Site – Jade Heliotrope](https://jade-heliotrope-b56d16.netlify.app/)  
 A modern personal website showcasing my background in programming and web development along with project links.  
 Developed using **HTML and CSS**, it focuses on readability and straightforward navigation.  
 
