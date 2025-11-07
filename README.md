@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mehmood  
 
-**Frontend Developer | Learning Full-Stack | Clean Code & Responsive Design**
+**Frontend Developer| Learning Full-Stack | Clean Code & Responsive Design**
 
 ---
 
