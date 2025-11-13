@@ -22,7 +22,7 @@
 ### 🚀 Projects  
 
 ### 1. [Personal Portfolio](https://magnificent-fox-3fea3a.netlify.app/)  
-A modern personal portfolio website showcasing my skills, projects, and interests.  
+A modern personal portfolio website showcasing my skills, projects, and interests.  jnjnnujy
 Built with **HTML and CSS**, it focuses on minimal design and responsive layout.  
 
 ### 2. [Personal Site – Marvelous Shortbread](https://marvelous-shortbread-3b1f1b.netlify.app/)  
