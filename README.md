@@ -21,7 +21,9 @@
 
 ### 🚀 Projects  
 
-
+### 1. [Personal](https://adorable-custard-991629.netlify.app/)  
+A minimal React-based demo site hosted on Netlify, serving as a personal project placeholder.
+The layout is simple, likely a starter template, with space to expand into a full portfolio.
 
 ### 2. [Save Task](https://calm-biscotti-cd4c1a.netlify.app/)  
 A lightweight task-management web application built for storing and organizing your tasks with simplicity.
