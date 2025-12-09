@@ -7,7 +7,7 @@
 ### 🌱 About Me  
 - 🌍 From Lahore, Pakistan  
 - 📚 Currently learning **Full-Stack Development** (Frontend + Backend)  
-- 💻 Skills: HTML, CSS, JavaScript React (learning Node )  
+- 💻 Skills: HTML, CSS, JavaScript, React (learning Node )  
 - 🎯 Goal: To become a **professional Full-Stack Web Developer**  
 - 📫 Reach me at: [mehmoodzafarfreelancing@gmail.com]  
 
