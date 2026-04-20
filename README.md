@@ -1,43 +1,60 @@
-# Hi 👋, I'm Mehmood  
+# Hi 👋, I'm Mehmood Zafar
 
-**Frontend Developer | Learning Full-Stack | Clean Code & Responsive Design**
-
----
-
-### 🌱 About Me  
-- 🌍 From Lahore, Pakistan  
-- 📚 Currently learning **Full-Stack Development** (Frontend + Backend)  
-- 💻 Skills: HTML, CSS, JavaScript, React (learning Node )  
-- 🎯 Goal: To become a **professional Full-Stack Web Developer**  
-- 📫 Reach me at: [mehmoodzafarfreelancing@gmail.com]  
+**Fullstack Developer & SaaS Builder** · *Freelance · Clean code · Responsive, accessible UI*
 
 ---
 
-### 🛠️ Skills  
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Learning Next:**  Node.js  
+### 🌱 About Me
+
+- 💼 Fullstack web developer, freelancer, and SaaS builder focused on **scalable products** and **high-end web solutions**.
+- 🎯 I work with business owners and independents on marketing sites, portfolios, and **operational dashboards**—with performance and accessibility in mind.
+- 📫 Reach me at: [mehmood.webworks@gmail.com](mailto:mehmood.webworks@gmail.com)
+- 🔗 [GitHub](https://github.com/mehmoodzafarfreelancing-ai) · [LinkedIn](https://www.linkedin.com/in/mehmood-zafar-402728393/) · [X / Twitter](https://x.com/codebymehmood)
 
 ---
 
-### 🚀 Projects  
+### 🛠️ Stack & focus
 
-### 1. [Personal](https://adorable-custard-991629.netlify.app/)  
-A minimal React-based demo site hosted on Netlify, serving as a personal project placeholder.
-The layout is simple, likely a starter template, with space to expand into a full portfolio.
+From my portfolio build:
 
-### 2. [Save Task](https://calm-biscotti-cd4c1a.netlify.app/)  
-A lightweight task-management web application built for storing and organizing your tasks with simplicity.
-Created using HTML and CSS, it emphasizes a clean user interface and straightforward functionality for efficient productivity.
+- **React** — Composable UIs, server/client boundaries, performance-minded patterns.
+- **Next.js** — App Router, streaming, edge-ready SaaS and marketing sites.
+- **TypeScript** — End-to-end type safety from APIs to UI.
+- **Tailwind CSS** — Design tokens, dark mode, consistent systems.
+- **Node.js** — APIs, webhooks (e.g. Stripe), auth, and data workflows.
 
-### 3. [Personal Portfolio](https://magnificent-fox-3fea3a.netlify.app/)  
-A modern personal portfolio website showcasing my skills, projects, and interests. 
-Built with **HTML and CSS**, it focuses on minimal design and responsive layout.  
+Also experimenting with **local / small LLMs**, streaming UIs in Next.js, WebGPU & WASM inference paths, and **RAG over private documents**.
 
 ---
 
-### 📌 Pinned Projects  
-I’m still building more projects, but you can check my repositories and pinned projects to see my learning progress.  
+### 🚀 Featured projects
+
+#### 1. [InvoiceTrackr](https://simple-invoice-tracker-nctn.vercel.app/)
+
+Full-stack **SaaS invoice tracker**: magic links, Stripe and PayPal checkout, branded PDFs, reminders, and a dashboard that surfaces what’s yours after tax—for freelancers and small teams outgrowing spreadsheets.
+
+**Tech:** Next.js · Supabase · Stripe · TypeScript · Tailwind CSS
+
+#### 2. [Detroit Architect](https://detroit-architect-concept.netlify.app/)
+
+Multi-page **architecture studio** marketing site: services, selected work, process, and contact—with a clean magazine-style layout and motion (including a hero video).
+
+**Tech:** HTML · CSS · JavaScript  
+**Code:** [Detroit-Architect on GitHub](https://github.com/mehmoodzafarfreelancing-ai/Detroit-Architect)
+
+#### 3. LocalPulse *(in progress)*
+
+**Mobile-first PWA** for local businesses: offline-friendly bookings, push reminders, and a fast storefront.
+
+**Tech:** PWA · Next.js · Workbox · IndexedDB  
+**Code:** [localpulse on GitHub](https://github.com/mehmoodzafar/localpulse)
 
 ---
 
-🚀 *Always learning, always building.*
+### 📌 Pinned & repos
+
+Check my [GitHub profile](https://github.com/mehmoodzafarfreelancing-ai) and pinned repositories for the latest shipped work and experiments.
+
+---
+
+🚀 *Building scalable SaaS products & high-end web solutions.*
